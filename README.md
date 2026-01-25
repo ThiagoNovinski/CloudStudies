@@ -7,9 +7,9 @@ Repositório de estudos em Cloud Computing, Infraestrutura e DevOps.
 - Redes de Computadores
 - Linux
 - Docker
-- Windows Server
+- AWS
 - Active Directory
-- Projeto prático de Cloud/DevOps
+- Projeto prático de Cloud
 
 ## Objetivo
 Consolidar estudos e práticas voltadas para atuação como
